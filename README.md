@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @getWombats
-- 👀 I’m interested in software developement and creating super cool stuff
+- 👀 I’m interested in software developement
 - 🌱 Currently i'm going for  an advanced federal diploma of higher education in information technology as software engineer
 
 <!---
