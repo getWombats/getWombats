@@ -1,6 +1,4 @@
-- 👋 Hi, I’m @getWombats
-- 👀 I’m interested in software developement
-- 🌱 Currently i'm going for  an advanced federal diploma of higher education in information technology as software engineer
+- 👋 Hello there
 
 <!---
 getWombats/getWombats is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
